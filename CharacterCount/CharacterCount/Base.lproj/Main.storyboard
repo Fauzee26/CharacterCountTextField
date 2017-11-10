@@ -35,7 +35,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="txtTXT" destination="JAK-As-DPt" id="Dfq-oa-hSP"/>
+                        <outlet property="txtText" destination="JAK-As-DPt" id="02Q-8e-pTg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

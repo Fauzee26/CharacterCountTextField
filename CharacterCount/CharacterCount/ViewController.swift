@@ -36,9 +36,9 @@ extension ViewController: TextFieldWithCharacterCountDelegate {
     
     func didReachCharacterLimit(_ reach: Bool) {
         if reach {
-            print("Gak Percaya?")
+            print("Limit Reach")
         }else{
-            print("Farras Cakep Banget")
+            print("Have More Chars To Go")
         }
     }
 }
